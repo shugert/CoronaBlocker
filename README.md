@@ -1,20 +1,21 @@
 
 # [Coronavirus Blocker](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb) - Adblock, but for COVID19
-**UPDATE:** The Extension is now on Google Chrome Store! [Get it Here](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb)
+**ACTUALIZACIÓN:** La extensión en inglés ya está en Google Chrome! [Obtenla Aquí](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb)
 
-**Motivation:** The endless coronavirus news doesn't help, it only enhances the fear & anxiety in us. Most of us know enough about it e.g. best practices, and the future of COVID-19 is NOT in our control (unless you're directly solving it). 
+**Motivación:** Las noticias de coronavirus nos tienen invadidos y eso no ayuda, solo aumenta el miedo y la ansiedad en nosotros. La mayoría de nosotros ya sabemos las bases para intentar evitar contagiarnos, pero el COVID-19 no está en nuestro control (a menos que tu directamente estes resolviendolo). 
 
-The goal of this extension is to redirect your energy on things that are in your control, such as learning a new instrument, learning to code, etc... instead of being distracted by events that you can't change. ***Coronavirus is bad enough for our physical health, let it not degrade our mental health too.***
+El objetivo de esta extensión es redirigir tu energia a cosas que SI ESTÁN en tu control, como aprender a programar, aprender a tocar un instrumento, etc... en lugar de estar distradio con eventos que NO PUEDES cambiar. ***El Coronavirus ya es suficientemente malo para nuestra salud física, no dejemos que afecte nuestra salud mental también.***
 
-🔑 *Stop focusing on what you can't change, instead install this chrome extension and enjoy corona-free browsing.*
+🔑 *Deja de enfocarte en lo que NO PUEDES CAMBIAR, en su lugar, instala esta extensión y disfruta de una navegación libre de covid!*
 
 ---
-~~**OLD Installation Instructions**~~
-~~1. Click "Clone or Download"
-2. Extract the zip file
-3. Go to chrome://extensions/
-4. Turn on Developer Mode (top right switch)
-5. Click Load unpacked
-6. Click into the extension folder
-7. Click "select folder"
-8. Done! Now turn the extension on & enjoy corona-free browsing!~~
+
+** Instrucciones para instalar version en español **
+1. Click en "Clone or Donwload"
+2. Extrae el archivo ZIP
+3. ve chrome://extensions/
+4. Enviende el Developer Mode (con click derecho)
+5. Click en cargar paquete
+6. Click en extensión del folder
+7. Click en "seleccionar folder"
+8. Listo! Ahora enciente la extensión y disfruta tu navegación!~~
