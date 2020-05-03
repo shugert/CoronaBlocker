@@ -1,5 +1,6 @@
 
-# [Coronavirus Blocker](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb) - Adblock, but for COVID19
+# [Bloqueador de Noticiias de Coronavirus](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb) - Evita saturarte de noticias del COVID con este Adblock de Covid19
+
 **ACTUALIZACIÓN:** La extensión en inglés ya está en Google Chrome! [Obtenla Aquí](https://chrome.google.com/webstore/detail/coronavirus-blocker-adblo/ompbbbfekoienlpmfjmdfghgdmdpmjnb)
 
 **Motivación:** Las noticias de coronavirus nos tienen invadidos y eso no ayuda, solo aumenta el miedo y la ansiedad en nosotros. La mayoría de nosotros ya sabemos las bases para intentar evitar contagiarnos, pero el COVID-19 no está en nuestro control (a menos que tu directamente estes resolviendolo). 
