@@ -16,7 +16,7 @@ function removeYouTube(){
     for (var i = 0; i < strs.length; ++i){
         el = strs[i]
         str = el.innerText
-        if (str.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+        if (str.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
             
             vidResult = el.closest("ytd-video-renderer")
             if (vidResult != null){
@@ -42,7 +42,7 @@ function removeGoogle(){
 
         el = strs[i]
         str = el.textContent
-        if (str.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+        if (str.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
             el.remove()
         }
         
@@ -52,19 +52,19 @@ function removeGoogle(){
 
     for (var i = 0; i < strs.length; ++i){
         el = strs[i]
-        if (url.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+        if (url.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
             el.remove()
         }
         else{
             str = el.textContent
-            if (str.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+            if (str.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
                 el.remove()
             }
         }
         
     }
     
-    if (url.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+    if (url.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
         kp_wp_tab = document.querySelectorAll(".kp-wholepage")
         for (var i = 0; i < kp_wp_tab.length; ++i){
             el = kp_wp_tab[i]
@@ -86,7 +86,7 @@ function instaRemove(){
     for (var i = 0; i < strs.length; ++i){
         el = strs[i]
         str = el.textContent
-        if (str.match(/coronavirus|corona|covid|covid19|covid\-19/gi)){
+        if (str.match(/coronavirus|amlo|gatel|celida|covid|covid19|covid\-19/gi)){
             el.remove()
         }
     }
