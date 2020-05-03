@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Coronavirus Blocker - Adblock, but for Corona",
+    "name": "Bloqueador de Noticias de Coronavirus en México",
     "version": "0.1.1",
-    "description": "Enjoy corona-free browsing on all sites.",
+    "description": "Disfruta tu vida sin intoxicarte de noticias sobre la pandemia en todos los sitios web.",
 	"icons": { "16": "icon16.png",
            "48": "icon48.png",
           "128": "icon128.png" },
